@@ -12,6 +12,8 @@ public class Main {
         System.out.println(existe(valor2, arreglo));
     }
 
+    // Funcion boolean que devuelve True si existe el valor, caso contrario devuelve False
+
     private static boolean existe(int valor, int[] numeros) {
         for (var numero : numeros) {
             if (numero == valor)
@@ -20,3 +22,4 @@ public class Main {
         return false;
     }
 }
+
