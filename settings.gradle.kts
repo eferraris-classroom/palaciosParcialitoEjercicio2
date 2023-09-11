@@ -1,0 +1,2 @@
+rootProject.name = "palaciosParcialitoEjercicio2"
+
